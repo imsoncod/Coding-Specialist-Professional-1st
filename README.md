@@ -1,4 +1,4 @@
-# ⌨️ COS PRO 1급 ⌨️
+# ⌨️ Coding Specialist Professional 1급 ⌨️
 
 ![image](https://user-images.githubusercontent.com/48934537/90975532-ff905100-e56f-11ea-854d-7a73a89f351f.png)
 
